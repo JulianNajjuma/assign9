@@ -1,0 +1,17 @@
+body{
+    background-color: purple;
+    padding: 2px;
+    text-align: center;
+}
+card1{
+    background-color: palevioletred;
+    border: rgb(105, 41, 170);
+    padding:3px ;
+    margin: auto;
+}
+card2{
+    background-color: plum;
+    border: rgb(111, 26, 196);
+    padding: 3px;
+    margin: auto;
+}
